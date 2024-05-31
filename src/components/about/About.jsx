@@ -14,8 +14,8 @@ function About() {
 
             <div className="about_data">
                 <p className="about_description">
-                I am a third year IT Undergraduate following a BSc. Hons in IT degree at the University of Sri Jayewardenepura, Sri Lanka. I am a hard-working student, aiming to develop my skills in order to be useful in the IT industry.
-                I am currently interested in data analytics and AI. I am a responsible person with democratic leadership who is capable of communicating with others and arrive at decisions better. 
+                I am a final year IT Undergraduate following a BSc. Hons in IT degree at the University of Sri Jayewardenepura, Sri Lanka. I am a hard-working student, aiming to develop my skills in order to be useful in the IT industry.
+                I am currently interested in software engineering, data analytics and AI. I am a responsible person with democratic leadership who is capable of communicating with others and arrive at decisions better. Currently I am seeking an internship opportunity in software engineering.
                 </p>
 
                 <a download="" href={CV} className="button button--flex">
